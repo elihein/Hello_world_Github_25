@@ -7,3 +7,6 @@ Check preview
 
 ## Protein info
 Here I will create a space to add my protein information
+
+## Gene info
+here I will add a gene info
