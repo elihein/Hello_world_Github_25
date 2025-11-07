@@ -4,3 +4,6 @@ Repository created for hello world exercise in Github session in Basic bioinform
 ## New change 1
 I am introducing a new change to this branch.
 Check preview
+
+## Gene info
+here I will add a gene info
